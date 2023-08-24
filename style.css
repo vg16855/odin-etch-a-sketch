@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    Font-Size: 48px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+}
+#grid {
+
+    border-style: solid;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    margin: 16px;
+    border-style: none;
+    background-color: #5783db;
+    border-radius: 25px;
+    cursor: pointer;
+    color: white;
+}
